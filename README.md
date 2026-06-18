@@ -142,7 +142,11 @@ Draft manuscript available in:
 ```
 report/IEEE_Connect_AMUP_Draft.docx
 ```
+and finalized submission in 
 
+```
+report/CONECCT26_1880.pdf
+```
 ---
 
 ## Keywords
